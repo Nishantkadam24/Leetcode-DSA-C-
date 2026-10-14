@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
