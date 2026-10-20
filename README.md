@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
