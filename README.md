@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
