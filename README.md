@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Math
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -111,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
