@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
