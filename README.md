@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
