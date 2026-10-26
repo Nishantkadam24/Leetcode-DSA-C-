@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
