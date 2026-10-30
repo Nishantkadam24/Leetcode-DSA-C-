@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
