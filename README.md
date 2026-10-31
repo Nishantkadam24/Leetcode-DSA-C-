@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
