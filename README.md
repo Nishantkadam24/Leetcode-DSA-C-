@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0777-swap-adjacent-in-lr-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
