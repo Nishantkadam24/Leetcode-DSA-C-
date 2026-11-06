@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
