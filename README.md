@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -204,4 +205,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
