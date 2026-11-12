@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
