@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
