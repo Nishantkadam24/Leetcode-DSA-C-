@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0032-longest-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
