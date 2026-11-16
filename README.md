@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0415-add-strings) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 ## String Matching
