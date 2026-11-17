@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
