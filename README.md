@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
+| [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
