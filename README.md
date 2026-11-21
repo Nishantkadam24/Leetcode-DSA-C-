@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
 | [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
