@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
