@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0709-to-lower-case) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0777-swap-adjacent-in-lr-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Math
 |  |
 | ------- |
