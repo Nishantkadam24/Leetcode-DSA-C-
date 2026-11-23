@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
 | [0881-boats-to-save-people](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1267-count-servers-that-communicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0697-degree-of-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Timsort
 |  |
