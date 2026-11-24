@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0179-largest-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0709-to-lower-case) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishantkadam24/Leetcode-DSA-C-/tree/master/3644-maximum-k-to-sort-a-permutation) |
